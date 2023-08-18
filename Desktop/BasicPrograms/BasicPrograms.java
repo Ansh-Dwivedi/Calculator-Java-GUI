@@ -7,7 +7,7 @@ class BasicPrograms {
     static String string;
     static int [] arr;
 
-/*===============================<NUMBER PROGRAM>=======================================*/
+/*==========================< NUMBER PROGRAM >============================*/
  
    // -------------------[SumAndProduct]---------------------
     public static void numberSumandProduct() {
@@ -215,7 +215,7 @@ class BasicPrograms {
         }    
     }  
     
-// ===========================< STRING PROGRAM >========================================
+// ========================< STRING PROGRAM >============================
     
     // ------------------[Alphabets A to Z]----------------------
     public static void alphabetsAtoZ() {
@@ -334,7 +334,8 @@ class BasicPrograms {
       } 
     }  
 
-/*================================< ARRAY PROGRAM >========================================*/
+/*================================< ARRAY PROGRAM >===================================*/
+ 
  public static void number1To10() {
 
 // ArrayDeclaretion
