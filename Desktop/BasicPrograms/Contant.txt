@@ -1,0 +1,20 @@
+//--------------------CONTANT-----------------------\\
+         
+         
+         1. WAP To Sum, Mul of Natural Number.
+         2. WAP To Find Even or Odd Number And Sum Even Or Odd.
+         3. WAP To Leap Year Or Not.
+         4. WAP To Reverse Number And String.
+         5. WAP To Palindrom Number.
+         6. WAP To Factorial Number.
+         7. WAP To Fact Number.
+         8. WAP To Fibonacci Series.
+         9. WAP To Armestrong Number.
+        10. WAP To Find Prime Number.
+        11. WAP Swap 2 Two Number.
+        12. WAP Gratest Two Number.
+        13. WAP To find PerfectNumber.
+         
+ //-----------------------------------------------------       
+        
+         
